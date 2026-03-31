@@ -1,0 +1,139 @@
+{
+  "Nintendo_spellen": [
+    {
+      "id": 1,
+      "spel": "Pokemon Moon",
+      "ontwikkelaar_id": 1,
+      "land": "Japan",
+      "verschijningsdatum": "2016"
+    },
+    {
+      "id": 2,
+      "spel": "The Legend of Zelda: Ocarina of Time 3D",
+      "ontwikkelaar_id": 2,
+      "land": "Japan",
+      "uitgavejaar": "2011"
+    },
+    {
+      "id": 3,
+      "spel": "The Legend of Zelda: A Link Between Worlds",
+      "ontwikkelaar_id": 2,
+      "land": "Japan",
+      "uitgavejaar": "2013"
+    },
+    {
+      "id": 4,
+      "spel": "Fire Emblem: Awakening",
+      "ontwikkelaar_id": 3,
+      "land": "Japan",
+      "uitgavejaar": "2012"
+    },
+    {
+      "id": 5,
+      "spel": "Super Mario 3D Land",
+      "ontwikkelaar_id": 2,
+      "land": "Japan",
+      "uitgavejaar": "2011"
+    },
+    {
+      "id": 6,
+      "spel": "Mario Kart 7",
+      "ontwikkelaar_id": 2,
+      "land": "Japan",
+      "uitgavejaar": "2011"
+    },
+    {
+      "id": 7,
+      "spel": "Animal Crossing: New Leaf",
+      "ontwikkelaar_id": 2,
+      "land": "Japan",
+      "uitgavejaar": "2012"
+    },
+    {
+      "id": 8,
+      "spel": "Monster Hunter 4 Ultimate",
+      "ontwikkelaar_id": 4,
+      "land": "Japan",
+      "uitgavejaar": "2014"
+    },
+    {
+      "id": 9,
+      "spel": "Kid Icarus: Uprising",
+      "ontwikkelaar_id": 5,
+      "land": "Japan",
+      "uitgavejaar": "2012"
+    },
+    {
+      "id": 10,
+      "spel": "Bravely Default",
+      "ontwikkelaar_id": 6,
+      "land": "Japan",
+      "uitgavejaar": "2012"
+    },
+    {
+      "id": 11,
+      "spel": "Luigi's Mansion: Dark Moon",
+      "ontwikkelaar_id": 7,
+      "land": "Canada",
+      "uitgavejaar": "2013"
+    },
+    {
+      "id": 12,
+      "spel": "Pokemon X",
+      "ontwikkelaar_id": 1,
+      "land": "Japan",
+      "uitgavejaar": "2013"
+    }
+  ],
+  "ontwikkelaars": [
+    {
+      "id": 1,
+      "naam": "Game Freak",
+      "opgericht": "1989",
+      "hoofdkantoor": "Tokio, Japan",
+      "bekend_van": "Pokémon-reeks"
+    },
+    {
+      "id": 2,
+      "naam": "Nintendo EAD",
+      "opgericht": "1983",
+      "hoofdkantoor": "Kyoto, Japan",
+      "bekend_van": "Mario, Zelda, Animal Crossing"
+    },
+    {
+      "id": 3,
+      "naam": "Intelligent Systems",
+      "opgericht": "1986",
+      "hoofdkantoor": "Kyoto, Japan",
+      "bekend_van": "Fire Emblem, Advance Wars"
+    },
+    {
+      "id": 4,
+      "naam": "Capcom",
+      "opgericht": "1979",
+      "hoofdkantoor": "Osaka, Japan",
+      "bekend_van": "Monster Hunter, Resident Evil"
+    },
+    {
+      "id": 5,
+      "naam": "Project Sora",
+      "opgericht": "2009",
+      "hoofdkantoor": "Tokio, Japan",
+      "bekend_van": "Kid Icarus: Uprising"
+    },
+    {
+      "id": 6,
+      "naam": "Silicon Studio",
+      "opgericht": "2000",
+      "hoofdkantoor": "Tokio, Japan",
+      "bekend_van": "Bravely Default-reeks"
+    },
+    {
+      "id": 7,
+      "naam": "Next Level Games",
+      "opgericht": "2002",
+      "hoofdkantoor": "Vancouver, Canada",
+      "bekend_van": "Luigi's Mansion-reeks, Mario Strikers"
+    }
+  ]
+}
